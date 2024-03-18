@@ -1,7 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/vAYlCov.png"></p>
 
-<p align="center"><img src="https://i.imgur.com/vAYlCov.png"></p>
-
 
 ### Welcome to my Hearthstone Deck Repo! Here you can find all of the decks I've built and played on [stream](https://www.twitch.tv/emerald_void). To learn more about the decklist formatting, check out the [formatting]() page.
 
@@ -22,14 +20,14 @@
 
 | **Class:**           |
 |----------------------|
-| [**Death Knight**]() |
-| [**Demon Hunter**]() |
-| [**Druid**]()        |
-| [**Hunter**]()       |
-| [**Mage**]()         |
-| [**Paladin**]()      |
-| [**Priest**]()       |
-| [**Rogue**]()        |
-| [**Shaman**]()       |
-| [**Warlock**]()      |
-| [**Warrior**]()      |
+| [**Death Knight**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/death-knight.md) |
+| [**Demon Hunter**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/demon-hunter.md) |
+| [**Druid**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/druid.md)        |
+| [**Hunter**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/hunter.md)       |
+| [**Mage**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/mage.md)         |
+| [**Paladin**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/paladin.md)      |
+| [**Priest**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/priest.md)       |
+| [**Rogue**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/rogue.md)        |
+| [**Shaman**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/shaman.md)       |
+| [**Warlock**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/warlock.md)      |
+| [**Warrior**](https://github.com/Emerald-Void/hearthstone-decks/blob/main/warrior.md)      |
