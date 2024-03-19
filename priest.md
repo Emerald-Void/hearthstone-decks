@@ -1,7 +1,7 @@
-<p align="center"><img src="https://i.imgur.com/yrxgxSO.png"></p>
+<p align="center"><img src="https://i.imgur.com/yrxgxSO.png">
+<img src="https://i.imgur.com/wNIZChp.png"></p>
 
 ---
 
 <br>
 
-<img src="https://i.imgur.com/wNIZChp.png">
